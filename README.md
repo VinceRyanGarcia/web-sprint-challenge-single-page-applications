@@ -51,7 +51,7 @@ Your finished project must include all of the following requirements:
 
 - [x] A homepage that has a "/" route and links to your form (button, nav bar, or any other type of link is acceptable)
 - [x] A form with a "/pizza" route
-- [ ] A name text input field
+- [x] A name text input field
 - [ ] Validation for name - name must be at least 2 characters
 - [ ] A dropdown for pizza size
 - [ ] A checklist for toppings - at least 4 (hint: name each separately!)
